@@ -8,7 +8,7 @@ Program for evaluating Omron's sensor 2JCIE-BU with Raspberry Pi Zero.
 * Temp_Characterization_omron.m is a MATLAB script to visualize data from the omron sensor. It takes the .csv file name and outputs three graphs of temperature, sound, and light. 
 
 ## Dependencies
-* [Python3]([url](https://www.python.org/))
-* [pyserial]([url](https://pythonhosted.org/pyserial/pyserial.html#installation))
+* [Python3](https://www.python.org/)
+* [pyserial](https://pythonhosted.org/pyserial/pyserial.html#installation)
 ## License
 Copyright (c) OMRON Corporation. All rights reserved.
