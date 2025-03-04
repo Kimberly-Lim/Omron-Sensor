@@ -10,5 +10,12 @@ Program for evaluating Omron's sensor 2JCIE-BU with Raspberry Pi Zero.
 ## Dependencies
 * [Python3](https://www.python.org/)
 * [pyserial](https://pythonhosted.org/pyserial/pyserial.html#installation)
+
+
+## Set Up and Extraction 
+* 1. Plug in cable to powerbank to turn on raspberry pi and sensor.
+  2. Once sensor lights up different colors and turns off, wait about 1 minute for sensor to turn green for 8 seconds then turn off. Sensor is now reading and collecting data.
+  3. To extract data, unplug power cable and plug in microSD card to computer and open software [DiskInternals](https://www.diskinternals.com/linux-reader/). 
+     
 ## License
 Copyright (c) OMRON Corporation. All rights reserved.
